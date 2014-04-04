@@ -18,6 +18,8 @@ public class TallerBasicoGit {
     public static void main(String[] args) {
         // TODO code application logi
         System.out.println("Printer comit");
+        System.out.println("Agregar desde web");
+        
     }
     
 }
